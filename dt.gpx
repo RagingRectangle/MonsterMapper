@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="GPS Visualizer https://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="38.965785" lon="-95.236078">
+  <name>1</name>
+  <desc>1</desc>
+</wpt>
+<wpt lat="38.967416" lon="-95.235762">
+  <name>2</name>
+  <desc>2</desc>
+</wpt>
+<wpt lat="38.969222" lon="-95.236061">
+  <name>3</name>
+  <desc>3</desc>
+</wpt>
+<wpt lat="38.968963" lon="-95.237228">
+  <name>4</name>
+  <desc>4</desc>
+</wpt>
+<wpt lat="38.966577" lon="-95.237219">
+  <name>5</name>
+  <desc>5</desc>
+</wpt>
+<wpt lat="38.965888" lon="-95.236998">
+  <name>6</name>
+  <desc>6</desc>
+</wpt>
+</gpx>
